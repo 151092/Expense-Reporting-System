@@ -1,0 +1,4 @@
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Entity\bin\Release\Expensite.Entity.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Entity\bin\Release\Expensite.Entity.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Entity\obj\Release\Expensite.Entity.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Entity\obj\Release\Expensite.Entity.pdb

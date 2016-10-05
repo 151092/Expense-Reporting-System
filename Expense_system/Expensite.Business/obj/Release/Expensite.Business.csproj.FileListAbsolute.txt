@@ -1,0 +1,9 @@
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\bin\Release\Expensite.Business.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\bin\Release\Expensite.Business.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\bin\Release\Expensite.Data.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\bin\Release\Expensite.Entity.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\bin\Release\Expensite.Data.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\bin\Release\Expensite.Entity.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\obj\Release\Expensite.Business.csprojResolveAssemblyReference.cache
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\obj\Release\Expensite.Business.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Business\obj\Release\Expensite.Business.pdb

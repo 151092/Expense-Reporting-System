@@ -1,0 +1,13 @@
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\obj\Release\Expensite.Web.csprojResolveAssemblyReference.cache
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Web.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Web.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Business.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Entity.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\JQChart.Web.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Data.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Business.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Entity.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\JQChart.Web.xml
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\bin\Expensite.Data.pdb
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\obj\Release\Expensite.Web.dll
+C:\Users\Dolly\Documents\Visual Studio 2012\WebSites\20-3\Expensite\Expensite.Web\obj\Release\Expensite.Web.pdb
